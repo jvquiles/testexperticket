@@ -3,7 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\testexperticket.Core\testexperticket.Core.csproj" />
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.4.1"/>
-    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.4.1"/>
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.4.0"/>
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.4.1"/>
   </ItemGroup>
 
